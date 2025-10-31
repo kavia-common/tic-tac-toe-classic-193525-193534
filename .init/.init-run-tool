@@ -1,0 +1,4 @@
+{
+    "command": "dotnet run --urls \"http://<host>:<port>\"",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tic-tac-toe-classic-193525-193534/tic_tac_toe_backend"
+}
